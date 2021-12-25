@@ -1,3 +1,9 @@
+Nama Anggota Kelompok : 
+1. Genja Rizky Novaianto 119140093
+2. Fahriza Yusefa 119140005
+3. Taufiq Ahmad Maulana 119140152
+
+
 ## Simple `LAPOR` :heavy_exclamation_mark:
 Anda mengetahui aplikasi `lapor` yang dibuat oleh pemerintah republik indonesia? jika tidak silahkan kunjungi 
 http://lapor.go.id, maka anda akan mendapatkan laman seperti gambar di bawah
