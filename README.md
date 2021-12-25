@@ -19,9 +19,11 @@ Disarankan untuk tidak melakukan commit dengan perubahan yang besar karena akan 
 penilaian (contoh: hanya melakukan satu commit kemudian dikumpulkan).
 3. Minimal commit sebanyak personil anggota tim dengan masing-masing personil tim melakukan commit sesuai dengan kesepakatan tim, penilaian individu akan dilihat.
 4. Ubah **Penjelasan Teknis** pada bagian bawah readme.md ini dengan menjelaskan bagaimana cara anda:
-   - Instalasi Framework, Koneksi basis data 
-   - Melakukan validasi pada client-side
-   - Melakukan AJAX (mulai dari pengguna melakukan klik pada tombol LAPOR! sampai laporan/komentar terkirim).
+   - Instalasi Framework laravel versi 8
+   - Install php versi 8.0
+   - Install composer versi 2.2.1
+   - Koneksi basis data (mysql) ke xampp
+   - Melakukan AJAX (pengguna memberikan laporan sampai laporan/komentar terkirim).
 5. Pull request dari repository anda ke repository ini dengan 
 format **NIM** - **Nama Lengkap**. **Waktu terkahir proses pull request adalah 4 hari setelah 
 ujian akhir semester (UAS)**
