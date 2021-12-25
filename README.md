@@ -23,7 +23,10 @@ penilaian (contoh: hanya melakukan satu commit kemudian dikumpulkan).
    - Install php versi 8.0
    - Install composer versi 2.2.1
    - Koneksi basis data (mysql) ke xampp
-   - Melakukan AJAX (pengguna memberikan laporan sampai laporan/komentar terkirim).
+   - Lalu buat database dengan nama lapor pada phpmyadmin
+   - lalu migrasi model ke database yang telah dibuat
+   - Lalu jalankan website dengan perintah : php artisan serve
+   - Melakukan AJAX (pengguna memberikan laporan sampai laporan/komentar) terkirim).
 5. Pull request dari repository anda ke repository ini dengan 
 format **NIM** - **Nama Lengkap**. **Waktu terkahir proses pull request adalah 4 hari setelah 
 ujian akhir semester (UAS)**
